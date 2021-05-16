@@ -1,3 +1,4 @@
+var Web3 = require('web3');
 var ObjectId = require('mongodb').ObjectID;
 const { io } = require("./socket");
 // const mainnet_http_RPC = require("../env").mainnet_http_RPC;

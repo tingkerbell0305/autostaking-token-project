@@ -1,3 +1,4 @@
+const jwt_enc_key = "THIS IS THE AUTH TOKEN ENCTYPTION KEY";
 const admin_address = "0xccccCCCCcccccCCCCCCccc";
 const signIn_break_timeout =  24*60*60;   //24*60*60 equals with 24 hours
 const upload_path = "/public/uploads/";
